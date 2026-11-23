@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "date": "2026-11-23",
+  "files": [
+    {
+      "index": 1,
+      "file": "01.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "360cd57147831228d6bb74770ee1c09d0ec4bff71249db16bba690acdb300534"
+    },
+    {
+      "index": 2,
+      "file": "02.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "7ddf66aa1d59c24216809019d0030bbb11a1db7f0fe8b843135de35b8c3782fd"
+    },
+    {
+      "index": 3,
+      "file": "03.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "a6e0d64c208171e92ca3e5fb12680a40fca23d82962c4ee2b551f1f9a2a73a2f"
+    },
+    {
+      "index": 4,
+      "file": "04.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "5605573033a8fc749e076f3bb9f2927a87c4ba830cca95af2e9419888b0f2536"
+    },
+    {
+      "index": 5,
+      "file": "05.png",
+      "size": [
+        1080,
+        1350
+      ],
+      "sha256": "42fe4afe631b2c95f00b52c65bd0838cf35231bd822c3fecd1d076eaa7cda069"
+    }
+  ]
+}
